@@ -241,8 +241,8 @@
 
 @font-face {
   font-family: 'sitenaviconfont';
-  src: url("../../../at.alicdn.com/t/font_1441531438_5516362.eot")/*tpa=http://at.alicdn.com/t/font_1441531438_5516362.eot*/;
-  src: url("../../../at.alicdn.com/t/font_1441531438_5516362.eot-#iefix")/*tpa=http://at.alicdn.com/t/font_1441531438_5516362.eot?#iefix*/ format('embedded-opentype'), /* IE6-IE8 */ url("../../../at.alicdn.com/t/font_1441531438_5516362.woff")/*tpa=http://at.alicdn.com/t/font_1441531438_5516362.woff*/ format('woff'), /* chrome、firefox */ url("../../../at.alicdn.com/t/font_1441531438_5516362.ttf")/*tpa=http://at.alicdn.com/t/font_1441531438_5516362.ttf*/ format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/ url("../../../at.alicdn.com/t/font_1441531438_5516362.svg#iconfont")/*tpa=http://at.alicdn.com/t/font_1441531438_5516362.svg#iconfont*/ format('svg');
+  src: url("../../../at.alicdn.com/t/font_1441531438_5516362.eot");
+  src: url("../../../at.alicdn.com/t/font_1441531438_5516362.eot-#iefix") format('embedded-opentype'), /* IE6-IE8 */ url("../../../at.alicdn.com/t/font_1441531438_5516362.woff") format('woff'), /* chrome、firefox */ url("../../../at.alicdn.com/t/font_1441531438_5516362.ttf") format('truetype'), /* chrome、firefox、opera、Safari, Android, iOS 4.2+*/ url("../../../at.alicdn.com/t/font_1441531438_5516362.svg#iconfont") format('svg');
 
   /* IE9*/
   /* iOS 4.1- */
@@ -325,7 +325,7 @@
   transition: top 0.35s cubic-bezier(0.39, 0.58, 0.57, 1);
 }
 .alimama-site-nav .login-panel-logo {
-  background: url("images/404.html")/*tpa=http://www.gylm.net.cn/static/css/images/tb1_phdhpxxxxxfxpxx1jjoipxx-67-24.png*/;
+  background: url("images/404.html");
   background-repeat: no-repeat;
   height: 23px;
   width: 67px;
@@ -509,7 +509,7 @@
   margin-bottom: 20px;
 }
 .alimama-site-nav .menu-product .menu-bd-panel-product .panel-product-container {
-  background: url("images/404.html")/*tpa=http://www.gylm.net.cn/static/css/images/t1b1m3xkvpxxxxxxxx-32-32.gif*/ no-repeat center;
+  background: url("images/404.html") no-repeat center;
   min-height: 50px;
   _height: 50px;
 }
@@ -570,7 +570,7 @@
   color: #fff;
 }
 .alimama-site-nav .menu-product .menu-bd-panel-product .panel-product-list .product-block .nav-product-logo {
-  background: url("images/404.html")/*tpa=http://www.gylm.net.cn/static/css/images/tb1pml7svxxxxxhaxxxxxxxxxxx-60-540.png*/;
+  background: url("images/404.html");
   background-repeat: no-repeat;
   display: block;
   margin: 0 auto;
@@ -684,7 +684,7 @@
 }
 .alimama-site-nav-normal .menu-bd-panel-wrap:before {
   content: ' ';
-  background: url("images/404.html")/*tpa=http://www.gylm.net.cn/static/css/images/tb1sejofvxxxxxsxxxxwnixhxxx-168-11.png*/;
+  background: url("images/404.html");
   background-repeat: no-repeat;
   background-position: center 12px;
   background-color: #fff;
@@ -698,7 +698,7 @@
   display: none\0;
 }
 .alimama-site-nav-normal .menu-product .menu-bd-panel-wrap:before {
-  background: url("images/404.html")/*tpa=http://www.gylm.net.cn/static/css/images/tb1ayxpfvxxxxxlxxxxb3bmopxx-349-11.png*/;
+  background: url("images/404.html");
   background-repeat: no-repeat;
   background-position: center 19px;
   background-color: #fff;
